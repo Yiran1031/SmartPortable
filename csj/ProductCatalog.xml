@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Catalog>
+    <WearableTechnology id="010">
+        <name>Fitness Watch_01</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>FitnessWatches</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </WearableTechnology>
+    <WearableTechnology id="004">
+        <name>Smart Watches</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>SmartWatches</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </WearableTechnology>
+    <WearableTechnology id="005">
+        <name>Headphones</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>Headphones</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </WearableTechnology>
+    <WearableTechnology id="005">
+        <name>Virtual Reality</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>VirtualReality</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </WearableTechnology>
+    <WearableTechnology id="006">
+        <name>PetTracker_01</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>PetTracker</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </WearableTechnology>
+    <Phone id="005">
+        <name>Phone01</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>Phone</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </Phone>
+    <Laptops id="006">
+        <name>Laptops01</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>Laptops</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </Laptops>
+    <Laptops id="007">
+        <name>Laptops02</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>Laptops</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </Laptops>
+    <Laptops id="008">
+        <name>Laptops03</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>Laptops</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </Laptops>
+    <Laptops id="009">
+        <name>Laptops04</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>Laptops</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </Laptops>
+    <VoiceAssistant id="007">
+        <name>VoiceAssistant01</name>
+        <price>399.99</price>
+        <image>xbox1.jpg</image>
+        <type>VirtualReality</type>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <num>99</num>
+    </VoiceAssistant>
+    <WearableTechnology id="014">
+      <name>Smart Watches_02</name>
+      <price>123.0</price>
+      <image>im</image>
+      <type>WearableTechnology</type>
+      <condition>new</condition>
+      <discount>2.0</discount>
+      <num>99</num>
+    </WearableTechnology>
+    <WearableTechnology id="016">
+      <name>pt</name>
+      <price>111.0</price>
+      <image>null</image>
+      <type>PetTracker</type>
+      <condition>new</condition>
+      <discount>12.0</discount>
+      <num>99</num>
+    </WearableTechnology>
+    <WearableTechnology id="017">
+      <name>kkk</name>
+      <price>123.0</price>
+      <image>null</image>
+      <type>VoiceAssistant</type>
+      <condition>new</condition>
+      <discount>1.0</discount>
+      <num>99</num>
+    </WearableTechnology>
+    <Phone id="020">
+      <name>phone_3</name>
+      <price>333.0</price>
+      <image>null</image>
+      <type>Phone</type>
+      <condition>new</condition>
+      <discount>12.0</discount>
+      <num>99</num>
+    </Phone>
+    <Phone id="001">
+      <name>phone7</name>
+      <price>499.0</price>
+      <image>null</image>
+      <type>Phone</type>
+      <condition>new</condition>
+      <discount>10.0</discount>
+      <num>99</num>
+    </Phone>
+    <Phone id="002">
+      <name>phone8</name>
+      <price>799.0</price>
+      <image>null</image>
+      <type>Phone</type>
+      <condition>new</condition>
+      <discount>10.0</discount>
+      <num>99</num>
+    </Phone>
+    <Phone id="003">
+      <name>Huawei</name>
+      <price>799.0</price>
+      <image>null</image>
+      <type>Phone</type>
+      <condition>new</condition>
+      <discount>10.0</discount>
+      <num>99</num>
+    </Phone>
+    <WearableTechnology id="021">
+      <name>test</name>
+      <price>1111.0</price>
+      <image>null</image>
+      <type>Headphones</type>
+      <condition>new</condition>
+      <discount>123.0</discount>
+      <num>99</num>
+    </WearableTechnology>
+    <Phone id="024">
+      <name>phone_4</name>
+      <price>123.0</price>
+      <image>null</image>
+      <type>Phone</type>
+      <condition>new</condition>
+      <discount>10.0</discount>
+      <num>99</num>
+    </Phone>
+    <WearableTechnology id="123">
+      <name>new product</name>
+      <price>111.0</price>
+      <image>null</image>
+      <type>SmartWatches</type>
+      <condition>new</condition>
+      <discount>111.0</discount>
+      <num>99</num>
+    </WearableTechnology>
+    <WearableTechnology id="123">
+      <name>new product 02</name>
+      <price>1111.0</price>
+      <image>null</image>
+      <type>SmartWatches</type>
+      <condition>new</condition>
+      <discount>111.0</discount>
+      <num>99</num>
+    </WearableTechnology>
+    <WearableTechnology id="321">
+      <name>new product 123</name>
+      <price>12333.0</price>
+      <image>null</image>
+      <type>Headphones</type>
+      <condition>new</condition>
+      <discount>123.0</discount>
+      <num>99</num>
+    </WearableTechnology>
+</Catalog>
